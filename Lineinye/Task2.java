@@ -7,7 +7,7 @@ public class Task2 {
         double a = console.nextDouble();
         double b = console.nextDouble();
         double c = console.nextDouble();
-        double z2 = (b + Math.sqrt(b * b + 4 * a * c)) / (2 * a) - Math.pow(a , 3) + Math.pow(b , -2);
-        System.out.println("z2 = " + z2);
+        double z = (b + Math.sqrt(b * b + 4 * a * c)) / (2 * a) - Math.pow(a , 3) + Math.pow(b , -2);
+        System.out.println("z = " + z);
     }
 }
