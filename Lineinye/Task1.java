@@ -8,6 +8,6 @@ public class Task1 {
         double b = console.nextDouble();
         double c = console.nextDouble();
         double z = ((a -3) * b / 2) + c;
-        System.out.println("z1 = " + z1);
+        System.out.println("z = " + z);
     }
 }
