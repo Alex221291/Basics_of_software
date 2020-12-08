@@ -1,5 +1,7 @@
 import java.util.Scanner;
+
 //3.Вычислить значение выражения по формуле (все переменные принимают действительные значения):
+
 public class Task3 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
