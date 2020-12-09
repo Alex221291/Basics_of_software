@@ -9,7 +9,7 @@ public class Task4 {
         System.out.println(" Enter A B :");
         double A = console.nextDouble();
         double B = console.nextDouble();
-        System.out.println(" Enter points x y z :");
+        System.out.println(" Enter x y z :");
         double x = console.nextDouble();
         double y = console.nextDouble();
         double z = console.nextDouble();
